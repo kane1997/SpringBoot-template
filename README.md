@@ -154,7 +154,7 @@ If you are not familiar with this step, you need to supplement your knowledge of
 
 Find the `FullSyncPostToEs` and `IncSyncPostToEs` files in the job directory, remove the comment on the `@Component` annotation, and run the program again to trigger synchronization:
 
-\```java
+```java
 // todo Uncomment to enable the task
 //@Component
-\```
+```
